@@ -1,13 +1,13 @@
 package br.unibh.sdm;
 
 /**
- * Hello world!
+ * Classe inicial
  *
  */
 public class App 
 {
     public static void main( String[] args )
-    {
+    {        
         System.out.println( "Hello World!" );
     }
 }
